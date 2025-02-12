@@ -28,7 +28,7 @@ const bootstrap=(app,express)=>{
     app.use('/graphql', createHandler({ schema:schema }));
     app.get('/playground', expressPlayground.default({ endpoint: '/graphql' }))
     app.get('/',(req,res,next)=>{
-        res.status(200).json({ message: "Welcome to My Library Management System" });
+        res.status(200).json({ message: "Welcome to My Library Management System ❤️" });
     })
     app.use('*',(req,res,next)=>{
         return next(new AppGeneralError('Page Not Found 404',404))

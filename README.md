@@ -5,7 +5,7 @@ This project provides a GraphQL API for user authentication, library management,
 
 ## 🚀 Live Demo
 Check out the live version of the app:
-🔗 [Social Media App](https://library-app-bice.vercel.app/)
+🔗 [Library App](https://library-app-bice.vercel.app/)
 
 ## 📌 API Documentation
 Explore the full API documentation For GraphQl:

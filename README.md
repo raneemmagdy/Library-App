@@ -1,7 +1,15 @@
-# Library App GraphQL API
+## Library App GraphQL API
 
 ## 🚀 Features
 This project provides a GraphQL API for user authentication, library management, book borrowing, and book management.
+
+## 🚀 Live Demo
+Check out the live version of the app:
+🔗 [Social Media App](https://library-app-bice.vercel.app/)
+
+## 📌 API Documentation
+Explore the full API documentation For GraphQl:
+🔗 [GraphQl Documentation](https://library-app-bice.vercel.app/playground)
 
 ## ⚙️ Installation & Setup
 

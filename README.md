@@ -59,8 +59,8 @@ Server will be running at `http://localhost:3000`
 - `confirmEmail`: Confirm user email address.
 - `getOneUserById`: Retrieve a single user by ID.
 - `getAllUsers`: Fetch all users.
-- `deleteUser`: Delete a user by ID.
-- `refreshTokenCheck`: Refresh the authentication token.
+- `deleteUser`: Delete a user by Token.
+- `refreshTokenCheck`: Generate Refresh token.
 
 ### 🔹 Library Model
 - `getAllLibraries`: Retrieve all libraries.

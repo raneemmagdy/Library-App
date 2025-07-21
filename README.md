@@ -62,24 +62,24 @@ Server will be running at `http://localhost:3000`
 - `deleteUser`: Delete a user by Token.
 - `refreshTokenCheck`: Generate Refresh token.
 
-### 🔹 Library Model
+###   Library Model
 - `getAllLibraries`: Retrieve all libraries.
 - `addLibrary`: Add a new library.
 - `getOneLibraryById`: Fetch a single library by ID.
 
-### 🔹 BorrowedBook Model
+###   BorrowedBook Model
 - `borrowBook`: Borrow a book from the library.
 - `markBookAsAvailable`: Mark a borrowed book as available.
 - `getOneBorrowedBookById`: Retrieve details of a borrowed book by ID.
 - `getAllBorrowedBook`: Fetch all borrowed books.
 - `getOverdueBooks`: Get a list of overdue books.
 
-### 🔹 Book Model
+###   Book Model
 - `addBook`: Add a new book to the library.
 - `getOneBookById`: Retrieve book details by ID.
 - `getAllBooks`: Fetch all books from the library.
 
-## 🛠️ Usage
+##  Usage
 Access GraphQL API using a GraphQL client such as Apollo Studio or Postman by sending queries and mutations to:
 ```
 http://localhost:3000/graphql
